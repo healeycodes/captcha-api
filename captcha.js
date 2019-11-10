@@ -1,4 +1,6 @@
-const { createCanvas } = require("canvas");
+/* captcha.js */
+
+
 
 const FONTBASE = 200;
 const FONTSIZE = 35;

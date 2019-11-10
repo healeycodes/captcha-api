@@ -1,3 +1,5 @@
+/* app.js */
+
 const captcha = require("./captcha");
 const express = require("express");
 const app = express();
