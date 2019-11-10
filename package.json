@@ -1,0 +1,33 @@
+{
+  "name": "captcha-api",
+  "version": "1.0.0",
+  "description": "An API for generating CAPTCHAs",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/healeycodes/captcha-api.git"
+  },
+  "keywords": [
+    "captcha",
+    "captchas",
+    "api"
+  ],
+  "author": "Andrew Healey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/healeycodes/captcha-api/issues"
+  },
+  "homepage": "https://github.com/healeycodes/captcha-api#readme",
+  "dependencies": {
+    "canvas": "^2.6.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "supertest": "^4.0.2",
+    "valid-data-url": "^2.0.0"
+  }
+}
