@@ -6,8 +6,6 @@ Keep those nasty bots out with a home-grown CAPTCHA!
 
 ![](https://github.com/healeycodes/captcha-api/blob/master/preview.jpg)
 
-n.b. CAPTCHAs are [not accessible](https://www.w3.org/TR/turingtest/) and in some cases not even effective.
-
 <br>
 
 ### API
@@ -24,3 +22,7 @@ n.b. CAPTCHAs are [not accessible](https://www.w3.org/TR/turingtest/) and in som
 Uses Jest to run integration tests.
 
 `npm test`
+
+<br>
+
+n.b. CAPTCHAs are [not accessible](https://www.w3.org/TR/turingtest/) and in some cases not even effective.
