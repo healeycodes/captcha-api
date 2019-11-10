@@ -14,7 +14,7 @@ Keep those nasty bots out with a home-grown CAPTCHA!
     - Get a web page with an image element to manually test the API.
 
 - `/captcha/:width?/:height?/`
-    - Get a CAPTCHA JSON object for proper usage.
+    - Get a CAPTCHA object for proper usage.
     - `{ "image": <data url>, "text": <validation text> }`
 
 ### Test
