@@ -1,4 +1,4 @@
-# 🔒 CAPTCHA API
+# 🔒 CAPTCHA API ![](https://github.com/healeycodes/captcha-api/workflows/Node%20CI/badge.svg)
 
 <br>
 
