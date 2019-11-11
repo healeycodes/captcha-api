@@ -1,14 +1,24 @@
-# 🔒 CAPTCHA API ![](https://github.com/healeycodes/captcha-api/workflows/Node%20CI/badge.svg)
+# CAPTCHA API ![](https://github.com/healeycodes/captcha-api/workflows/Node%20CI/badge.svg)
 
 <br>
 
-Keep those nasty bots out with a home-grown CAPTCHA!
+🔒 Keep those nasty bots out with a home-grown CAPTCHA!
 
 ![](https://github.com/healeycodes/captcha-api/blob/master/preview.jpg)
 
 <br>
 
+### Install
+
+`npm i`
+
+### Run
+
+`npm start`
+
 ### API
+
+All routes default to 200x100 size unless specified.
 
 - `/test/:width?/:height?/`
     - Get a web page with an image element to manually test the API.
