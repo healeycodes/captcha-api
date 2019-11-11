@@ -1,5 +1,7 @@
 # CAPTCHA API ![](https://github.com/healeycodes/captcha-api/workflows/Node%20CI/badge.svg)
 
+> My blog post: [Let's Build a CAPTCHA Generator with Node.js](https://healeycodes.com/javascript/webdev/node/tutorial/2019/11/11/lets-generate-captchas.html)
+
 <br>
 
 🔒 Keep those nasty bots out with a home-grown CAPTCHA!
